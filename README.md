@@ -42,7 +42,7 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 ## About Me
 
-Hi there! I'm **Rosa Alvarez**, a professional with experience in the education and agriculture fields. I am curious about technology and have a strong background in business administration, leadership, and industrial engineering. I am passionate about continuous learning and leveraging technology to create meaningful impact.
+Hi there! I'm **Rosa Alvarez**, a professional with experience in the education and agriculture fields. I am curious about technology and have a strong background in **business administration, leadership, and industrial engineering.** I am passionate about continuous learning and leveraging technology to create meaningful impact.
 
 ## Special Thanks
 
