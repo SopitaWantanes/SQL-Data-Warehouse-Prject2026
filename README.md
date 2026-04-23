@@ -40,7 +40,7 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 The data architecture for this project follows the Medallion Architecture (Bronze, Silver, Gold layers).
 
-![Data Architecture](docs/images/data_architecture.png)
+![Data Architecture](docs/SQL Architecture.drawio.png)
 
 ## 🔐 License
 
