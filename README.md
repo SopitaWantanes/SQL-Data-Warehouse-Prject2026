@@ -36,6 +36,12 @@ Develop SQL-based analytics to deliver detailed insights into:
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
+## 🏗️ Data Architecture
+
+The data architecture for this project follows the Medallion Architecture (Bronze, Silver, Gold layers).
+
+![Data Architecture](docs/images/data_architecture.png)
+
 ## 🔐 License
 
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
